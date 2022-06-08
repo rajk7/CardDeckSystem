@@ -1,0 +1,696 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+/Users/raj/Downloads/CardExample-Unity-master 2
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+49405
+Successfully changed project path to: /Users/raj/Downloads/CardExample-Unity-master 2
+/Users/raj/Downloads/CardExample-Unity-master 2
+Using Asset Import Pipeline V2.
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Refreshing native plugins compatible for Editor in 23.15 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/raj/Downloads/CardExample-Unity-master 2/Assets
+GfxDevice: creating device client; threaded=0
+2022-06-08 15:18:13.854 Unity[10127:4705097] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2022-06-08 15:18:13.854 Unity[10127:4705097] Metal devices available: 1
+2022-06-08 15:18:13.854 Unity[10127:4705097] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2022-06-08 15:18:13.855 Unity[10127:4705097] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56127
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000724 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 25.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.942 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000314 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.961 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1125 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.9 MB.
+System memory in use after: 109.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 2.803923 ms (FindLiveObjects: 0.218755 ms CreateObjectMapping: 0.058911 ms MarkObjects: 2.414541 ms  DeleteObjects: 0.109776 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CardFramework/Prefabs
+  artifactKey: Guid(0f64c530674d6470a9786c006f3161e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Prefabs using Guid(0f64c530674d6470a9786c006f3161e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecc540658ced1599b6ca95439649b6a4') in 0.004765 seconds
+  Import took 0.007261 seconds .
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.995 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.7 MB.
+System memory in use after: 109.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1572.
+Total: 1.533568 ms (FindLiveObjects: 0.169963 ms CreateObjectMapping: 0.039733 ms MarkObjects: 1.294691 ms  DeleteObjects: 0.026271 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.8 MB.
+System memory in use after: 109.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1575.
+Total: 1.593851 ms (FindLiveObjects: 0.192335 ms CreateObjectMapping: 0.025318 ms MarkObjects: 1.360550 ms  DeleteObjects: 0.014614 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 214.437715 seconds.
+  path: Assets/CardFramework/AssetBundles
+  artifactKey: Guid(b8bb3b57f40294a7ca84bda6ce4c5269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/AssetBundles using Guid(b8bb3b57f40294a7ca84bda6ce4c5269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4e5c212a90d08e71d074ef617bdd83') in 0.004619 seconds
+  Import took 0.007199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004749 seconds.
+  path: Assets/CardFramework/AssetBundles
+  artifactKey: Guid(b8bb3b57f40294a7ca84bda6ce4c5269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/AssetBundles using Guid(b8bb3b57f40294a7ca84bda6ce4c5269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4e5c212a90d08e71d074ef617bdd83') in 0.001329 seconds
+  Import took 0.005002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.950602 seconds.
+  path: Assets/CardFramework/Materials/Table 1.mat
+  artifactKey: Guid(2e25879b0e7554ae3a58a4fd2db4fc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Materials/Table 1.mat using Guid(2e25879b0e7554ae3a58a4fd2db4fc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed295b0cfb91ff64314a76a28e9d6f96') in 1.232324 seconds
+  Import took 1.234540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/CardFramework/Materials/Table.mat
+  artifactKey: Guid(0b7f16afc6eee466794c2d1ed1ed8b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Materials/Table.mat using Guid(0b7f16afc6eee466794c2d1ed1ed8b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65f9c81c6da77db879404636355f08e') in 0.087680 seconds
+  Import took 0.089968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/CardFramework/Models/Card.fbx
+  artifactKey: Guid(071bf2162efd0421fba3cbb46cd0f476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Models/Card.fbx using Guid(071bf2162efd0421fba3cbb46cd0f476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26426b1148668235cd49d7b833e11ef') in 0.216075 seconds
+  Import took 0.220210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.686293 seconds.
+  path: Assets/CardFramework/Models/Materials
+  artifactKey: Guid(690ea34685112469fbe6042ca2c3213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Models/Materials using Guid(690ea34685112469fbe6042ca2c3213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95acbd7f44e16c071bbc984261bc9ec9') in 0.001429 seconds
+  Import took 0.003465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077695 seconds.
+  path: Assets/CardFramework/Models/Materials/CardBack.mat
+  artifactKey: Guid(db232105dcf884adaa7b39028cf5ac3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Models/Materials/CardBack.mat using Guid(db232105dcf884adaa7b39028cf5ac3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367f40489de154dfabe46d5e5e361a0d') in 0.007603 seconds
+  Import took 0.010166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/CardFramework/Models/Materials/CardMagic.mat
+  artifactKey: Guid(9d45888cc576c4437a5053e84d1be92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Models/Materials/CardMagic.mat using Guid(9d45888cc576c4437a5053e84d1be92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3938d833906924927dad502e177d7794') in 0.012479 seconds
+  Import took 0.014339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/CardFramework/Models/Materials/CardFront.mat
+  artifactKey: Guid(921231612a42f4e4bb3f21e95f6b4aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Models/Materials/CardFront.mat using Guid(921231612a42f4e4bb3f21e95f6b4aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f51e40b8b3819e557dbc68c30223305c') in 0.007930 seconds
+  Import took 0.009612 seconds .
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000428 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.852 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.7 MB.
+System memory in use after: 122.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 1.951711 ms (FindLiveObjects: 0.190897 ms CreateObjectMapping: 0.038679 ms MarkObjects: 1.700466 ms  DeleteObjects: 0.020015 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000347 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.902 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 122.9 MB.
+System memory in use after: 123.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.386680 ms (FindLiveObjects: 0.304882 ms CreateObjectMapping: 0.098636 ms MarkObjects: 1.958543 ms  DeleteObjects: 0.022687 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000345 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.1 MB.
+System memory in use after: 123.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 1.383241 ms (FindLiveObjects: 0.187777 ms CreateObjectMapping: 0.032762 ms MarkObjects: 1.147687 ms  DeleteObjects: 0.014019 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000341 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.145 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.3 MB.
+System memory in use after: 123.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 1.824770 ms (FindLiveObjects: 0.235551 ms CreateObjectMapping: 0.044011 ms MarkObjects: 1.523847 ms  DeleteObjects: 0.019880 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.804 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.6 MB.
+System memory in use after: 123.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.730193 ms (FindLiveObjects: 0.154747 ms CreateObjectMapping: 0.058497 ms MarkObjects: 1.498646 ms  DeleteObjects: 0.017089 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000411 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.912 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.6 MB.
+System memory in use after: 123.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 1.511402 ms (FindLiveObjects: 0.202788 ms CreateObjectMapping: 0.039126 ms MarkObjects: 1.251419 ms  DeleteObjects: 0.016721 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000360 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.932 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.9 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 1.734782 ms (FindLiveObjects: 0.155833 ms CreateObjectMapping: 0.035489 ms MarkObjects: 1.522200 ms  DeleteObjects: 0.018335 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.1 MB.
+System memory in use after: 124.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 1.704803 ms (FindLiveObjects: 0.189583 ms CreateObjectMapping: 0.105075 ms MarkObjects: 1.392319 ms  DeleteObjects: 0.016434 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000346 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.3 MB.
+System memory in use after: 124.4 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 1.610232 ms (FindLiveObjects: 0.208015 ms CreateObjectMapping: 0.043770 ms MarkObjects: 1.337424 ms  DeleteObjects: 0.019885 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.827 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.5 MB.
+System memory in use after: 124.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 1.467348 ms (FindLiveObjects: 0.149672 ms CreateObjectMapping: 0.035846 ms MarkObjects: 1.261789 ms  DeleteObjects: 0.017508 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000547 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.051 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.7 MB.
+System memory in use after: 124.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.405221 ms (FindLiveObjects: 0.332584 ms CreateObjectMapping: 0.086630 ms MarkObjects: 1.965978 ms  DeleteObjects: 0.017420 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000478 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.181 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.8 MB.
+System memory in use after: 124.9 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 2.308152 ms (FindLiveObjects: 0.211862 ms CreateObjectMapping: 0.052009 ms MarkObjects: 2.019069 ms  DeleteObjects: 0.022114 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000435 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.0 MB.
+System memory in use after: 125.1 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1657.
+Total: 1.671625 ms (FindLiveObjects: 0.314463 ms CreateObjectMapping: 0.045829 ms MarkObjects: 1.292709 ms  DeleteObjects: 0.016825 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.825 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.2 MB.
+System memory in use after: 125.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1660.
+Total: 1.792576 ms (FindLiveObjects: 0.364522 ms CreateObjectMapping: 0.128674 ms MarkObjects: 1.280347 ms  DeleteObjects: 0.017475 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.834 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.5 MB.
+System memory in use after: 125.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1663.
+Total: 1.643855 ms (FindLiveObjects: 0.210738 ms CreateObjectMapping: 0.044615 ms MarkObjects: 1.367467 ms  DeleteObjects: 0.017929 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.767 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.6 MB.
+System memory in use after: 125.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1666.
+Total: 1.779696 ms (FindLiveObjects: 0.279455 ms CreateObjectMapping: 0.056741 ms MarkObjects: 1.419230 ms  DeleteObjects: 0.022163 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 125.9 MB.
+System memory in use after: 126.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1669.
+Total: 1.915811 ms (FindLiveObjects: 0.310301 ms CreateObjectMapping: 0.096265 ms MarkObjects: 1.483606 ms  DeleteObjects: 0.022102 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000335 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.1 MB.
+System memory in use after: 126.2 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1672.
+Total: 1.840136 ms (FindLiveObjects: 0.400047 ms CreateObjectMapping: 0.056945 ms MarkObjects: 1.358716 ms  DeleteObjects: 0.020682 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3894.066405 seconds.
+  path: Assets/CardFramework/Textures
+  artifactKey: Guid(8e6f8bd8563774f72b94780e1b01aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Textures using Guid(8e6f8bd8563774f72b94780e1b01aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1672199cfa5b73c96ac227488db796') in 0.004401 seconds
+  Import took 0.007300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002035 seconds.
+  path: Assets/CardFramework/Textures
+  artifactKey: Guid(8e6f8bd8563774f72b94780e1b01aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Textures using Guid(8e6f8bd8563774f72b94780e1b01aab0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1672199cfa5b73c96ac227488db796') in 0.001164 seconds
+  Import took 0.003405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051365 seconds.
+  path: Assets/CardFramework/Textures/CardBack.png
+  artifactKey: Guid(a269102091fa44267bcdfe56a221d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Textures/CardBack.png using Guid(a269102091fa44267bcdfe56a221d7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66d2609261037099391b4780536c270') in 0.779086 seconds
+  Import took 0.781256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.104637 seconds.
+  path: Assets/CardFramework/Materials
+  artifactKey: Guid(744440f00e46948a89f10543fccf6c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Materials using Guid(744440f00e46948a89f10543fccf6c5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1fa8e75d9429fd2105dd33ccbd6d7d1') in 0.001419 seconds
+  Import took 0.003334 seconds .
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000529 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.814 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.6 MB.
+System memory in use after: 130.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1677.
+Total: 2.041921 ms (FindLiveObjects: 0.350941 ms CreateObjectMapping: 0.066935 ms MarkObjects: 1.601212 ms  DeleteObjects: 0.018935 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 216.886316 seconds.
+  path: Assets/CardFramework/Textures/BG3.png
+  artifactKey: Guid(3b36191814e0d4583bd25b98380f0082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CardFramework/Textures/BG3.png using Guid(3b36191814e0d4583bd25b98380f0082) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3098d48b55b126591ae19c252a3249f') in 0.044153 seconds
+  Import took 0.046413 seconds .
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.000336 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.781 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.7 MB.
+System memory in use after: 130.8 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1681.
+Total: 1.968038 ms (FindLiveObjects: 0.277114 ms CreateObjectMapping: 0.048130 ms MarkObjects: 1.617013 ms  DeleteObjects: 0.023865 ms)
+
+========================================================================
+Received Prepare
+Platform WindowsStandaloneSupport does not support graphics device type 
+
+Registering precompiled user dll's ...
+Registered in 0.001197 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1119 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.9 MB.
+System memory in use after: 131.0 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1684.
+Total: 2.108291 ms (FindLiveObjects: 0.184723 ms CreateObjectMapping: 0.055728 ms MarkObjects: 1.847975 ms  DeleteObjects: 0.018184 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
